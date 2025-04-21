@@ -1,5 +1,5 @@
 # BreadthFirstvsAStar-Python
-The 8-puzzle problem involves a 3x3 grid with 8 numbered tiles and one empty space. The goal is to slide tiles into the empty space until the goal configuration is acheived. In this case, the goal configuration is the tiles places in increasing order with the empty space in the bottom right corner, or: </br>
+The 8-puzzle problem involves a 3x3 grid with 8 numbered tiles and one empty space. The goal is to slide tiles into the empty space until the goal configuration is acheived. In this case, the goal configuration is the tiles placed in increasing order with the empty space in the bottom right corner, or: </br>
 1 2 3 </br>
 4 5 6 </br>
 7 8   </br>
